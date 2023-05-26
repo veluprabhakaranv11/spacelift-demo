@@ -3,7 +3,7 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "apu-ohio"
+  default = "spacelift"
 }
 
 variable "ami_id" {
