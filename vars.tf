@@ -3,9 +3,9 @@ variable "instance_type" {
 }
 
 variable "key_name" {
-  default = "spacelift"
+  default = "ap-south"
 }
 
 variable "ami_id" {
-    default = "ami-06c4532923d4ba1ec"
+    default = "ami-0d38bdcff6dfc60cf"
 }
